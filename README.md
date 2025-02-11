@@ -1,4 +1,4 @@
-# PC-Hardware-Monitor-PicoW
+# PC-PicoW-Hardware-Monitor
 
 A simple project to monitor your PC's CPU, GPU, and RAM usage and send the data to a Raspberry Pi Pico W, which hosts an HTTP server to receive and display the information.
 
