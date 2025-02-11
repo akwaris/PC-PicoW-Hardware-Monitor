@@ -10,7 +10,7 @@ A simple project to monitor your PC's CPU, GPU, and RAM usage and send the data 
 
 ## Requirements
 ### PC (Sender)
-- Windows PC with **OpenHardwareMonitor** installed
+- Windows PC with **OpenHardwareMonitor** installed, download here: https://openhardwaremonitor.org/downloads/
 - Python 3 installed
 - Required Python libraries:
   ```sh
