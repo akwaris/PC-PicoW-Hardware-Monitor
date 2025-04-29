@@ -78,5 +78,5 @@ Received JSON data: {'cpu_temp': 45.0, 'gpu_temp': 50.0, 'ram_used': 12.5, 'ram_
 This project is open-source under the MIT License.
 
 ---
-Happy Monitoring! 🚀
+Happy Monitoring!
 
